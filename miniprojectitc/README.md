@@ -1,16 +1,11 @@
-# miniprojectitc
+# MINI PROJECT ITC 
 
-A new Flutter project.
+News Project Menggunakan flutter 
 
-## Getting Started
+## FITUR
 
-This project is a starting point for a Flutter application.
+Di dalam project ini saya membuat portal berita yang dimana terdapat berbagai fitur yaitu 
+- Menu sign in dan sign up menggunakan firebase
+- portal berita yang dimana berita bersifat dinamis yang diambil dari news API [NewsAPI](https://newsapi.org/)
+- Terdapat sign out 
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
